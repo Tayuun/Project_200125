@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\DomainShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\GeometryShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\GSD12Rect.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\GSD12Texture.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\HullShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSD12Rect.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSD12.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSRawTexture.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSTexture.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSColor.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSD12Rect.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSD12.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSLine.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSRawSpriteEx.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSSprite.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSSpriteEx.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSRect.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,52 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\DomainShader.cso
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\GeometryShader.cso
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+  
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\GSD12Rect.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\GSD12Texture.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\HullShader.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSD12Rect.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSD12.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSRawTexture.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSTexture.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\PSColor.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSD12Rect.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSD12.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSLine.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSRawSpriteEx.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSSprite.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSSpriteEx.cso
+  compilation object save succeeded; see C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Resource\Shaders\VSRect.cso
+  Graphics.vcxproj -> C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Debug\Graphics.lib

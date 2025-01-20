@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Headers">
+      <UniqueIdentifier>{5bc5f8ca-d478-4db6-88a5-f43ce1a2e4a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders">
+      <UniqueIdentifier>{a4bcb238-2156-4981-ab11-bf94df89da08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Documentation">
+      <UniqueIdentifier>{b46562de-d133-4673-9a8e-997d28f0a106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders\DIrect11">
+      <UniqueIdentifier>{37a80313-6544-414b-b55e-069860843953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders\Direct12">
+      <UniqueIdentifier>{2b1d0b13-a6a8-4f9f-b6c4-bdbcdc04dd10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Direct3D11main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct3D12Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="DomainShader.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="GeometryShader.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="HullShader.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="PSColor.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="PSRawTexture.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="PSTexture.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="VSLine.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="VSRawSpriteEx.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="VSRect.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="VSSprite.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="VSSpriteEx.hlsl">
+      <Filter>Source Files\Shaders\DIrect11</Filter>
+    </FxCompile>
+    <FxCompile Include="PSD12.hlsl">
+      <Filter>Source Files\Shaders\Direct12</Filter>
+    </FxCompile>
+    <FxCompile Include="VSD12.hlsl">
+      <Filter>Source Files\Shaders\Direct12</Filter>
+    </FxCompile>
+    <FxCompile Include="VSD12Rect.hlsl">
+      <Filter>Source Files\Shaders\Direct12</Filter>
+    </FxCompile>
+    <FxCompile Include="PSD12Rect.hlsl">
+      <Filter>Source Files\Shaders\Direct12</Filter>
+    </FxCompile>
+    <FxCompile Include="GSD12Rect.hlsl">
+      <Filter>Source Files\Shaders\Direct12</Filter>
+    </FxCompile>
+    <FxCompile Include="GSD12Texture.hlsl">
+      <Filter>Source Files\Shaders\Direct12</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Doc.txt">
+      <Filter>Source Files\Documentation</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Include\CommonDirectX.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\GraphicsDirectX.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\Settings.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\Resource.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\SpriteEnum.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\GraphicHandler.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\GraphicsDirect3D12.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
