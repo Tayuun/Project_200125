@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Source.cpp
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(353,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(356,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(359,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(362,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(365,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(368,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Include\GraphicsDirect3D12.h(371,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Direct12Testing\Source.cpp(19,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Direct12Testing\Source.cpp(44,30): warning C4838: conversion from 'UINT' to 'float' requires a narrowing conversion
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Direct12Testing\Source.cpp(44,30): warning C4244: 'initializing': conversion from 'UINT' to 'float', possible loss of data
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Direct12Testing\Source.cpp(44,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Direct12Testing\Source.cpp(44,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Direct12Testing\Source.cpp(44,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Direct12Testing.vcxproj -> C:\Users\Резка\Desktop\Books\Programs\С++\Project\Project1\Debug\Direct12Testing.exe
